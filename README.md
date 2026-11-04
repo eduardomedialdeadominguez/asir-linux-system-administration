@@ -112,7 +112,7 @@ Como parte de la actividad, razoné qué diseño emplearía para un servidor que
 | Archivo | Qué documenta |
 |---|---|
 | [01-identificacion-kernel.png](capturas/01-identificacion-kernel.png) | Identificación inicial con `uname -a` |
-| [07-tamano-etc.png](capturas/07-tamano-etc.png) | Comprobación del tamaño de `/etc` |
+| [07-tamano-etc.png](capturas/07-tamaño-etc.png) | Comprobación del tamaño de `/etc` |
 
 Todas las capturas se encuentran en la carpeta [`capturas/`](capturas/).
 
