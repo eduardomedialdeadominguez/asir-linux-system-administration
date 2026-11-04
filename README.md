@@ -122,7 +122,7 @@ Con este laboratorio reforcé mi capacidad para recopilar información de un sis
 
 ## Nota del laboratorio
 
-Las configuraciones, nombres y recursos mostrados corresponden a un entorno académico. Algunas acciones, como programar un reinicio, se documentan como configuradas cuando no existe evidencia de su ejecución posterior. No se incluyen contraseñas ni claves privadas.
+Las configuraciones, nombres y recursos mostrados corresponden a un entorno académico. No se incluyen contraseñas ni claves privadas.
 
 ## Autor
 
