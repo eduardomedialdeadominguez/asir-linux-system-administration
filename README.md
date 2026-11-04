@@ -128,3 +128,4 @@ Las configuraciones, nombres y recursos mostrados corresponden a un entorno acad
 
 **Eduardo Medialdea Dominguez**  
 Estudiante de segundo curso de ASIR — ILERNA  
+*Documentación propia basada en una práctica académica. No se publican datos privados, claves ni material docente sin autorización.*
